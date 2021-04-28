@@ -2,4 +2,4 @@
 
 **Robust and Non-robust features**
 
-Please follow the instructions in the jupyter notebook file
+Please follow the instructions in the jupyter notebook file (main.ipynb)
